@@ -1,5 +1,3 @@
-> 📖 [Read this document in English](README.en.md)
-
 # ColdWindTunnel：冷存在AI安全风洞原型
 
 ![Status](https://img.shields.io/badge/Status-Pre--Alpha-red)
