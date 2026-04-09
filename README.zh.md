@@ -1,7 +1,26 @@
+<div align="center">
+    
+[English](README.md) | [中文](README.zh.md)
+
+</div>
+
+<div align="center">
+    
 # ColdWindTunnel：冷存在AI安全风洞原型
 
-![Status](https://img.shields.io/badge/Status-Pre--Alpha-red)
+</div>
+
+<div align="center">
+
+[![arXiv](https://img.shields.io/badge/arXiv-2512.08740-brightgreen.svg)](https://arxiv.org/abs/<2512.08740>)
+[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2512.08740-brightgreen.svg)](https://doi.org/10.48550/arXiv.2512.08740)
+[![figshare](https://img.shields.io/badge/figshare-31696846-blueviolet.svg?logo=figshare&logoColor=white)](https://doi.org/10.6084/m9.figshare.31696846)
+[![DOI](https://img.shields.io/badge/DOI-10.6084/m9.figshare.31696846-blueviolet.svg)](https://doi.org/10.6084/m9.figshare.31696846)
+[![Python](https://img.shields.io/badge/Python-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![Status](https://img.shields.io/badge/Status-Pre--Alpha--Prototype-orange)
+
+</div>
 
 > **⚠️ 代码审查中（Code Under Review）**  
 > 本项目当前版本为 **Pre-Alpha**，代码逻辑、参数设置、结果解读尚在作者审查中，可能存在错误或不严谨之处。欢迎专家和开发者指出问题、提交 PR 或讨论改进方向。请谨慎使用当前结果做出工程决策。
